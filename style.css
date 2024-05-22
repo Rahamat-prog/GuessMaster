@@ -103,7 +103,7 @@ html {
     }
 
   }  */
-  @media screen and (max-width:435px){
+  /* @media screen and (max-width:435px){
     #wrapper{
       width: 300px;
     }
@@ -117,7 +117,7 @@ html {
     .main-heading{
       font-size: 20px;
     }
-  }
+  } */
   
   h1 {
     background-color: #161616;
